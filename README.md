@@ -1,4 +1,4 @@
-# Lista-zalacznikow
+# Lista zalacznikow
 Repozytorium zostało utworzone do udostępnienia załączników pracy magisterskiej. Zawiera ono 3 pliki. Każdy z plików jest raportem ze automatycznego narzędzia do skanowania podatności.
 
 + Załącznik1 - Wygenerowany raport programu Tenable Nessus. Dotyczy komponentów systemu brzegowego automatyki jakimi są Industrial Edge Management oraz Industrial Edge Device.
